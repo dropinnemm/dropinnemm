@@ -17,6 +17,6 @@
 <a href="https://discord.gg/" target"blank_"><img src="https://img.shields.io/discord/schwesta?style=for-the-badge&color=7289da&label=Schwesta&logo=discord%22%3E</a>
 </p>
 
-<h1 align="center"> Hello I'm DROPİNNEM</h1>
+
    
 <div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default"/></a></div>
