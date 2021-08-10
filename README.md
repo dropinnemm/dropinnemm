@@ -16,5 +16,4 @@
    <a href="https://github.com/dropinnemm" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
 ## Spotify
-
-   https://spotify-github-profile.vercel.app/api/view.svg?uid=kme3awmhvmcbkm6so6ggiouz0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kme3awmhvmcbkm6so6ggiouz0&cover_image=true&theme=default)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kme3awmhvmcbkm6so6ggiouz0&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kme3awmhvmcbkm6so6ggiouz0&redirect=true)
