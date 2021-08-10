@@ -1,7 +1,7 @@
 <h1 align="center"> Hello I'm DROPİNNEM</h1>
 
 <div align="center">
-    <a href="https://discord.com/users/635481308847669249" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/635481308847669249"></a>
+     <a href="https://discord.com/users/645296920922947615" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/635481308847669249"></a>
 </div>
 
 
