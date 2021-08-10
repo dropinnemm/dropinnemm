@@ -4,6 +4,7 @@
     <a href="https://discord.com/users/772518221302464544" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/772518221302464544"></a>
 </div>
 
+
 ## Languages
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
