@@ -17,5 +17,6 @@
 <a href="https://discord.gg/" target"blank_"><img src="https://img.shields.io/discord/schwesta?style=for-the-badge&color=7289da&label=Schwesta&logo=discord%22%3E</a>
 </p>
 
-   <h2 align="center">Spotify</h2>
-<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=DROPİNNEM&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=DROPİNNEM&cover_image=true&theme=default"/></a></div>
+<h2 align="center">Spotify</h2>
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=animecimisalimurat&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=animecimisalimurat&cover_image=true&theme=default"/></a></div>
+
