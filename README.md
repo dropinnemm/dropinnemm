@@ -1,6 +1,4 @@
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="Hi there, I'm Dropinnem" />
-</h1>
+<h1 align="center">Hi 👋, I'm DROPİNNEM</h1>
 
 <div align="center">
 <a href="https://discord.com/users/772518221302464544"><img src="https://lanyard-profile-readme.vercel.app/api/772518221302464544" /></a>
