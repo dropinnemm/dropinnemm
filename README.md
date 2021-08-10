@@ -2,8 +2,8 @@
 
 <div align="center">
 <a href="https://discord.com/users/772518221302464544"><img src="https://lanyard-profile-readme.vercel.app/api/772518221302464544" /></a>
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kme3awmhvmcbkm6so6ggiouz0&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=kme3awmhvmcbkm6so6ggiouz0&redirect=true)
 </div>
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kme3awmhvmcbkm6so6ggiouz0&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=kme3awmhvmcbkm6so6ggiouz0&redirect=true)
 
 ## Languages
 <div align="center">
