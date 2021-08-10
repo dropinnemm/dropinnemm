@@ -1,15 +1,12 @@
 <h1 align="center"> Hello I'm DROPİNNEM</h1>
 
-(https://lanyard-profile-readme.vercel.app/api/772518221302464544)](https://discord.com/users/772518221302464544)
+<div align="center">
+    <a href="https://discord.com/users/772518221302464544" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/772518221302464544"></a>
+</div>
 
 ## Languages
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/typescript%20-%23E34F26.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-
 </div>
 
 ## My Accounts
