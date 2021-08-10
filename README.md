@@ -18,5 +18,5 @@
 </p>
 
 
-   <h1 align="center"> DROPİNNEM</h1>
+   <h2 align="center"> DROPİNNEM</h2>
 <div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default"/></a></div>
