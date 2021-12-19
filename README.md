@@ -15,5 +15,3 @@
    <a href="https://github.com/dropinnemm" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
 
-<h2 align="center">Spotify</h2>
-<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=kme3awmhvmcbkm6so6ggiouz0&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kme3awmhvmcbkm6so6ggiouz0&cover_image=true&theme=default"/></a></div>
