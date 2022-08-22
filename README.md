@@ -1,3 +1,1 @@
-<h1 align="center">Hi 👋, I'm DROPİNNEM</h1>
-MODERNLİĞİ REDDET
-
+<h1 align="center">MODERNLİĞİ REDDET.</h1>
