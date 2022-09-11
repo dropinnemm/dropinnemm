@@ -1,5 +1,5 @@
 # Hi there , I'm Kaan 
-![profile count](https://komarev.com/ghpvc/?username=dropinnemm&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=dropinnemm&color=blue)&nbsp;
 <a href="https://instagram.com/"><img src="https://img.shields.io/badge/@-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Langauges I Know:
