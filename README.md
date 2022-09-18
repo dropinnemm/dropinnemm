@@ -1,4 +1,4 @@
-# Hi there , I'm Kaan  ![image](https://cdn.discordapp.com/emojis/992439854786936933.gif?size=96&quality=lossless)
+# Hi there , I'm Kaan  
 ![profile count](https://komarev.com/ghpvc/?username=dropinnemm&color=blue)&nbsp;
 <a href="https://instagram.com/"><img src="https://img.shields.io/badge/@-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
@@ -19,3 +19,4 @@
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dropinnemm&theme=holi-theme">
 </p>
+![image](https://cdn.discordapp.com/emojis/992439854786936933.gif?size=96&quality=lossless)
